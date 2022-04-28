@@ -1,3 +1,5 @@
+// www.hackerrank.com/challenges/reduced-string/problem
+
 #include <iostream>
 #include <string>
 
