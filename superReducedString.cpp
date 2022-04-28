@@ -1,4 +1,4 @@
-// www.hackerrank.com/challenges/reduced-string/problem
+// https://hackerrank.com/challenges/reduced-string/problem
 
 #include <iostream>
 #include <string>
