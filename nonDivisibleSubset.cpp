@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/non-divisible-subset/problem
+// https://hackerrank.com/challenges/non-divisible-subset/problem
 
 #include <iostream>
 #include <algorithm>
