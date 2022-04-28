@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/kangaroo/problem
+// https://hackerrank.com/challenges/kangaroo/problem
 
 const kangaroo = function(
     x1: number,
